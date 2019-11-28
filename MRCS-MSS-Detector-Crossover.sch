@@ -393,10 +393,10 @@ Es handelt sich hierbei um AK500 in horizontaler Ausführung.&lt;p&gt;
 &lt;author&gt;Created by librarian@cadsoft.de&lt;/author&gt;</description>
 <packages>
 <package name="1751248">
-<description>&lt;b&gt;MKDS 1/ 2-3,5&lt;/b&gt; Printklemme&lt;p&gt;
+<description>&lt;b&gt;MKDS 1/ 2-3.5&lt;/b&gt; Printklemme&lt;p&gt;
 Nennstrom: 10 A&lt;br&gt;
 Bemessungsspannung: 160 V&lt;br&gt;
-Raster: 3,5 mm&lt;br&gt;
+Raster: 3.5 mm&lt;br&gt;
 Polzahl: 2&lt;br&gt;
 Montageart: Löten&lt;br&gt;
 Anschlussart: Schraubanschluss&lt;br&gt;
@@ -459,10 +459,10 @@ Source: http://eshop.phoenixcontact.com .. 1751248.pdf</description>
 </symbols>
 <devicesets>
 <deviceset name="1751248" prefix="X">
-<description>&lt;b&gt;MKDS 1/ 2-3,5&lt;/b&gt; Printklemme&lt;p&gt;
+<description>&lt;b&gt;MKDS 1/ 2-3.5&lt;/b&gt; Printklemme&lt;p&gt;
 Nennstrom: 10 A&lt;br&gt;
 Bemessungsspannung: 160 V&lt;br&gt;
-Raster: 3,5 mm&lt;br&gt;
+Raster: 3.5 mm&lt;br&gt;
 Polzahl: 2&lt;br&gt;
 Montageart: Löten&lt;br&gt;
 Anschlussart: Schraubanschluss&lt;br&gt;
