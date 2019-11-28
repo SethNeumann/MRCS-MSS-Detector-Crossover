@@ -576,7 +576,7 @@ General Instrument, Semikron, Diotec, Fagor&lt;p&gt;
 </library>
 <library name="cap-pan">
 <packages>
-<package name="E2,5-6">
+<package name="E2.5-6">
 <wire x1="-1.7462" y1="1.7463" x2="-0.7937" y2="1.7463" width="0.127" layer="21"/>
 <wire x1="-1.27" y1="2.2225" x2="-1.27" y2="1.27" width="0.127" layer="21"/>
 <wire x1="-0.3175" y1="1.27" x2="-0.3175" y2="-1.27" width="0.1524" layer="51"/>
@@ -620,12 +620,12 @@ General Instrument, Semikron, Diotec, Fagor&lt;p&gt;
 </symbol>
 </symbols>
 <devicesets>
-<deviceset name="E2,5-6" prefix="C" uservalue="yes">
+<deviceset name="E2.5-6" prefix="C" uservalue="yes">
 <gates>
 <gate name="G$1" symbol="C-P" x="0" y="0"/>
 </gates>
 <devices>
-<device name="" package="E2,5-6">
+<device name="" package="E2.5-6">
 <connects>
 <connect gate="G$1" pin="+" pad="+"/>
 <connect gate="G$1" pin="-" pad="-"/>
@@ -1852,8 +1852,8 @@ Standard 8.5x11 US Letter frame</description>
 <part name="X2" library="con-ptr500" deviceset="AK500/2" device="" value="AUXBUS"/>
 <part name="X3" library="con-phoenix-350" deviceset="1751248" device="" value="BLK OCC"/>
 <part name="BR1" library="rectifier" deviceset="RB1A" device="" value="bridge"/>
-<part name="C1" library="cap-pan" deviceset="E2,5-6" device="" value="47uf 25V"/>
-<part name="C2" library="cap-pan" deviceset="E2,5-6" device="" value="0.47uf 63V"/>
+<part name="C1" library="cap-pan" deviceset="E2.5-6" device="" value="47uf 25V"/>
+<part name="C2" library="cap-pan" deviceset="E2.5-6" device="" value="0.47uf 63V"/>
 <part name="X4" library="con-molex" deviceset="KK-156-5" device="" value="0.156/5"/>
 <part name="VR1" library="v-reg" deviceset="78LXX" device="" value="LM78L12"/>
 <part name="FRAME1" library="SPCoast" deviceset="DOC-FRAME-LETTER" device=""/>
